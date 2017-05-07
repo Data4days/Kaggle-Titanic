@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[304]:
-
 import numpy as np
 import pandas as pd
 import sklearn.pipeline
