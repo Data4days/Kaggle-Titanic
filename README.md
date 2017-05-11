@@ -1,3 +1,3 @@
 # Kaggle-Titanic
 
-This is my best entry (79% accuracy) for my first Kaggle competition.
+My first Kaggle competition entry achieving 79% accuracy on the public leaderboard.
